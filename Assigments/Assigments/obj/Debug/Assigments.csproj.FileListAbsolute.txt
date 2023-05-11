@@ -1,0 +1,17 @@
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\Assigments.exe.config
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\Assigments.exe
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\Assigments.pdb
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.FrmAddNew.resources
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.Assigments.resources
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.Properties.Resources.resources
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.exe
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.pdb
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\EntityFramework.dll
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\EntityFramework.xml
+C:\Users\ivang\Desktop\Assigments\Assigments\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivang\Desktop\Assigments\Assigments\obj\Debug\Assigments.csproj.CopyComplete
