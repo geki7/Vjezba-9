@@ -1,0 +1,16 @@
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\Categories and Products.exe.config
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\Categories and Products.exe
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\Categories and Products.pdb
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\EntityFramework.dll
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\EntityFramework.xml
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories_and_Products.CategoryandProducts.resources
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories_and_Products.Properties.Resources.resources
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.csproj.CopyComplete
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.exe
+C:\Users\ivang\Desktop\Categories and Products\Categories and Products\obj\Debug\Categories and Products.pdb

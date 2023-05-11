@@ -1,0 +1,16 @@
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\BooksTask.exe.config
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\BooksTask.exe
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\BooksTask.pdb
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\EntityFramework.dll
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\EntityFramework.xml
+C:\Users\ivang\Desktop\BooksTask\BooksTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.Books.resources
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.Properties.Resources.resources
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.csproj.CopyComplete
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.exe
+C:\Users\ivang\Desktop\BooksTask\BooksTask\obj\Debug\BooksTask.pdb
